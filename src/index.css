@@ -17,3 +17,6 @@ span,
 .bg-primary-color{
   background-image: linear-gradient(to right, #6b2b72, #a5079d);
 }
+html{
+  scroll-behavior: smooth;
+}
